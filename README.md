@@ -27,7 +27,7 @@ Currently, I'm an Undergraduate student, pursuing B.tech in Computer Science and
 ### [Villa Romentika](https://www.villaromentika.com/) | A Real Estate Property Website
 
 - Fully responsive website.
-- Different homepage for mobile and desktop users.
+- Separate homepage for mobile and desktop users.
 - Hosted on Hostinger.com.
 - Technology used: HTML, CSS, SCSS, JavaScript, Bootstrap. 
 
