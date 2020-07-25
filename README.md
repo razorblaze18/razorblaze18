@@ -1,16 +1,16 @@
-### Hi there 👋
+### Introduction : 
+Hi! I'm Mudit Dhangar. I live in Vadodara, India.
+I'm a undergraduate student, currently pursuing B.tech in Computer Science and Engineering from Jaypee University of Engineering and Technology.
 
-<!--
-**razorblaze18/razorblaze18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Technology Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend
+
+-HTML5
+-CSS3(flex and grid)
+-SCSS
+-JavaScript
+-Bootstrap
+-React
+
