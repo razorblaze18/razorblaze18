@@ -31,6 +31,14 @@ Currently, I'm an Undergraduate student, pursuing B.tech in Computer Science and
 - Hosted on Hostinger.com.
 - Technology used: HTML, CSS, SCSS, JavaScript, Bootstrap. 
 
+### [mudit.](https://razorblaze18.github.io/MyPortfolio/) | My Portfolio Website
+
+- Fully responsive website.
+- Minimalism design
+- Currrently hosted on GitHub Pages.
+- Technology used: HTML, CSS, JS, JQUERY, GSAP(for animation)
+- The website is still under construction, a lot more is to be added to the website.
+
 ## Certificates
 
 - JavaScript - The Complete Guide 2020 (Beginner + Advance) from UDEMY
