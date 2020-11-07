@@ -48,9 +48,11 @@ Currently, I'm an Undergraduate student, pursuing B.tech in Computer Science and
 
 Email - [dhangar.mudit3@gmail.com](mailto:hangar.mudit3@gmail.com)
 
-LinkedIn - [https://www.linkedin.com/in/mudit-d-44ba3180/](https://www.linkedin.com/in/mudit-d-44ba3180/)
+LinkedIn - [Mudit Dhangar](https://www.linkedin.com/in/mudit-d-44ba3180/)
 
-GitHub - [https://github.com/razorblaze18](https://github.com/razorblaze18)
+GitHub - [razorblaze18](https://github.com/razorblaze18)
+
+Website = [mudit.](https://razorblaze18.github.io/MyPortfolio/)
 
 ## Area of interest and life Goals
 
