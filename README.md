@@ -24,8 +24,8 @@ Currently, I'm an Undergraduate student, pursuing B.tech in Computer Science and
 
 ## Designing
 
--Adobe Illustrator
--Adobe PhotoShop
+- Adobe Illustrator
+- Adobe PhotoShop
 
 ## Projects
 
