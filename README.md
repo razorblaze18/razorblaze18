@@ -22,6 +22,11 @@ Currently, I'm an Undergraduate student, pursuing B.tech in Computer Science and
 - PostgresSql
 - Python
 
+## Designing
+
+-Adobe Illustrator
+-Adobe PhotoShop
+
 ## Projects
 
 ### [Villa Romentika](https://www.villaromentika.com/) | A Real Estate Property Website
@@ -52,7 +57,7 @@ LinkedIn - [Mudit Dhangar](https://www.linkedin.com/in/mudit-d-44ba3180/)
 
 GitHub - [razorblaze18](https://github.com/razorblaze18)
 
-Website = [mudit.](https://razorblaze18.github.io/MyPortfolio/)
+Website - [mudit.](https://razorblaze18.github.io/MyPortfolio/)
 
 ## Area of interest and life Goals
 
